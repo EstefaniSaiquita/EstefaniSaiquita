@@ -10,14 +10,14 @@
     <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3>
 </div>
 
+<!-- Esto es un comentario y no será visible en el archivo renderizado 
 <pre>
-
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
     💻 System programming languages 
     📖 Software architecture 
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
+</pre>-->
 <br><br>
 
 
